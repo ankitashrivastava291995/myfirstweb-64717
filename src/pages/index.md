@@ -33,13 +33,6 @@ sections:
         actions: []
         type: grid_item
         image: images/image_service_-1.jpg
-      - image_alt: lorem-ipsum
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions: []
-        type: grid_item
-        image: images/futuristic-saturn.jpg
   - section_id: testimonials
     type: section_testimonials
     title: Our Blogs
