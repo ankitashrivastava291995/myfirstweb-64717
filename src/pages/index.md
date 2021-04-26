@@ -20,17 +20,13 @@ sections:
           fringilla, fringilla.
         image: images/image_service_1.jpg
       - image_alt: lorem-ipsum
-        content: >-
+        content: >+
           ## Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
         image: images/image_service_2.jpg
