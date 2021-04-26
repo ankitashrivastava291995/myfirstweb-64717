@@ -42,7 +42,7 @@ sections:
         image: images/futuristic-saturn.jpg
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: Our Blogs
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
