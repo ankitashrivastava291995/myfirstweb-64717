@@ -20,6 +20,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
+        image: images/image_service_1.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
