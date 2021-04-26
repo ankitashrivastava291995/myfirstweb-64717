@@ -8,7 +8,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-    title: "Our Technology-enabled solutions are tailored\_to meet the demands of individuals &\_organisations……."
   - section_id: services
     type: section_grid
     title: What We Do
