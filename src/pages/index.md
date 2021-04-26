@@ -33,7 +33,7 @@ sections:
         actions: []
         type: grid_item
         image: images/image_service_-1.jpg
-  - title: lorem-ipsum
+  - title: Latest Blogs
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 3
