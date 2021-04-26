@@ -33,6 +33,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/image_service_2.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
