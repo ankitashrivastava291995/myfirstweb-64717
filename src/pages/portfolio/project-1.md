@@ -1,6 +1,8 @@
 ---
 title: Project Title 1
-subtitle: Optional Project Subtitle
+subtitle: >-
+  Our Technology-enabled solutions are tailored to meet the demands of
+  individuals &  organisations…….
 date: '2019-05-10'
 thumb_image: images/famous-oregano.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
