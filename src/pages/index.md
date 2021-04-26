@@ -43,13 +43,6 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items: []
-    type: section_grid
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
