@@ -56,11 +56,6 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
