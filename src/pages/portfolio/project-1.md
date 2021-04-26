@@ -1,5 +1,7 @@
 ---
-title: "Our Technology-enabled solutions are tailored\_to meet the demands of individuals &\_organisations……."
+title: >-
+  Our Technology-enabled solutions are tailored to meet the demands of
+  individuals & organisations…….
 subtitle: >-
   Our Technology-enabled solutions are tailored to meet the demands of
   individuals &  organisations…….
