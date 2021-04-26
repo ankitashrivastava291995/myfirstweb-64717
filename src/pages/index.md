@@ -32,8 +32,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
