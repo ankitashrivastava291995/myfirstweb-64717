@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Artificial Intellegence
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/banner_img_3.jpg
