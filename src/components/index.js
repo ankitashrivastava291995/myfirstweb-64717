@@ -17,7 +17,6 @@ import FeaturesSection from './FeaturesSection';
 
 export {
     Action,
-    section
     ActionLink,
     CtaButtons,
     Footer,
