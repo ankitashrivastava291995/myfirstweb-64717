@@ -30,6 +30,7 @@ export {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
+    f
     Layout
 };
 
