@@ -6,7 +6,6 @@ import FormField from './FormField';
 import Header from './Header';
 import Icon from './Icon';
 import SectionContent from './SectionContent';
-import FeaturesSection from './FeaturesSection';
 import SectionForm from './SectionForm';
 import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
