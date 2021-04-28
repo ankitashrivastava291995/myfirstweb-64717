@@ -73,4 +73,3 @@ export default class Feature extends React.Component {
         );
     }
 }
-d
