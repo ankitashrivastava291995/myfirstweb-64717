@@ -19,7 +19,6 @@ imzzz
 export {
     Action,
     ActionLink,
-    FeaturesSection,
     CtaButtons,
     Footer,
     FormField,
