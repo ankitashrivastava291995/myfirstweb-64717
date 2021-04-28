@@ -17,7 +17,6 @@ import FeaturesSection from './FeaturesSection';
 
 export {
     Action,
-    FeaturesSection,
     ActionLink,
     CtaButtons,
     Footer,
@@ -38,7 +37,6 @@ export {
 export default {
     Action,
     ActionLink,
-    FeaturesSection,
     CtaButtons,
     Footer,
     FormField,
