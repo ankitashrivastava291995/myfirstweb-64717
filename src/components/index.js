@@ -32,8 +32,7 @@ export {
     SectionPosts,
     SectionTestimonials,
     FeaturesSection,
-        FeaturesSection,
-
+    
     Layout
 };
 
