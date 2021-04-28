@@ -51,5 +51,6 @@ export default {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
+    FeaturesSection,
     Layout
 };
