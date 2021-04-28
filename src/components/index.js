@@ -38,6 +38,7 @@ export {
 export default {
     Action,
     ActionLink,
+    FeaturesSection,
     CtaButtons,
     Footer,
     FormField,
